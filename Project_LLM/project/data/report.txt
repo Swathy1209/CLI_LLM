@@ -1,0 +1,59 @@
+BUSINESS PERFORMANCE REPORT — Q4 2024
+Prepared by: Business Intelligence Team
+Date: December 2024
+
+=== EXECUTIVE SUMMARY ===
+
+The company experienced mixed performance in Q4 2024. While the North region maintained
+steady growth and Engineering continued to scale headcount for upcoming product launches,
+the South region faced significant headwinds driven by competitive pressure and supply chain
+disruptions. Overall net revenue declined 12% month-over-month in November compared to
+August, requiring immediate attention from regional leadership.
+
+=== PARAGRAPH 1: REVENUE OVERVIEW ===
+
+Total net revenue across all regions and products peaked in August 2024 at approximately
+$136,750 and has trended downward through November, reaching roughly $112,160. This
+represents a cumulative decline of approximately 18% over the four-month period. The North
+region bucked this trend, posting consistent growth in Widget C sales, which reached $26,400
+in net revenue in November — the single strongest product-region combination on record.
+
+=== PARAGRAPH 2: SOUTH REGION DECLINE ===
+
+The South region has been the primary driver of revenue deterioration. South region net revenue
+fell from $62,800 in August to $37,150 in November — a drop of more than 40%. The root causes
+identified by the regional sales team include: (1) increased competition from a local distributor
+offering Widget A substitutes at 20% lower price points; (2) a logistics disruption in October
+that delayed Widget C shipments, causing customers to seek alternatives; and (3) a spike in
+product returns, particularly for Widget C, suggesting possible quality control issues in that
+region's distribution chain. Sales leadership has escalated the returns issue to the Operations
+team for investigation.
+
+=== PARAGRAPH 3: SALARY AND HEADCOUNT TRENDS ===
+
+Total payroll expenses have risen steadily throughout the period, growing from $585,850 in
+August to $637,340 in November — an increase of 8.8%. Engineering headcount grew from 40
+to 45 employees, reflecting planned hiring for the company's platform migration project
+scheduled for Q1 2025. The Sales department added 2 headcount in October to support
+expansion into new territories. While these investments are strategic, the combination of
+rising payroll and falling revenue has compressed operating margins significantly. The
+Finance team has flagged this as a concern if South region revenue does not recover in Q1.
+
+=== PARAGRAPH 4: OPERATIONAL HIGHLIGHTS ===
+
+The Operations team completed a warehouse consolidation in the West region during October,
+which is expected to reduce fulfillment costs by approximately 5% starting in Q1 2025. The
+HR department is finalizing a revised bonus structure for the Sales team, aimed at incentivizing
+performance in underperforming regions. Marketing spent Q4 piloting two digital campaigns
+targeting enterprise customers, with results expected in January 2025. Early indicators suggest
+a 15% improvement in lead quality compared to prior campaigns.
+
+=== PARAGRAPH 5: OUTLOOK ===
+
+Management remains cautiously optimistic for Q1 2025. The North region is expected to
+continue outperforming, and the Widget B product line shows resilience in Eastern markets.
+Recovery in the South region will depend on resolution of the supply chain and returns issues.
+The company's cost structure must be carefully managed given the rising payroll baseline. If
+revenue does not recover to August levels by Q2 2025, the executive team will consider
+restructuring options including a review of South region headcount and possible promotional
+pricing on Widget A to recapture lost market share.
