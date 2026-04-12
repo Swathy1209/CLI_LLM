@@ -550,7 +550,7 @@ def format_response(question: str, insights: str) -> str:
     """
     STRICT LLM formatter - NO reasoning, NO calculations, NO number changes.
     """
-    api_key = "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"
+    api_key = os.getenv("API_KEY", "")
     client = groq.Groq(api_key=api_key)
     
     prompt = f"""You are a strict formatter.
