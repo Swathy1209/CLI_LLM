@@ -171,7 +171,7 @@ def query_llm(prompt: str) -> str:
     """
     Send the prompt to Groq and return the text response.
     """
-    api_key = "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"
+    api_key = os.getenv("API_KEY", "")
     client = groq.Groq(api_key=api_key)
     message = client.chat.completions.create(
         model="llama-3.1-8b-instant",
